@@ -1,0 +1,2358 @@
+# depslib dependency file v1.0
+1484613112 source:/home/shaoshao/huawei/test1/SDK-gcc/cdn/cdn.cpp
+	"deploy.h"
+	"lib_io.h"
+	"lib_time.h"
+	"stdio.h"
+
+1488536274 /home/shaoshao/huawei/test1/SDK-gcc/cdn/deploy.h
+	"lib/lib_io.h"
+
+1484613844 /home/shaoshao/huawei/test1/SDK-gcc/cdn/lib/lib_io.h
+
+1484529734 /home/shaoshao/huawei/test1/SDK-gcc/cdn/lib/lib_time.h
+
+1488598983 source:/home/shaoshao/huawei/test1/SDK-gcc/cdn/deploy.cpp
+	"deploy.h"
+	<stdio.h>
+	<memory.h>
+	<iostream>
+	<vector>
+
+1484615570 source:/home/shaoshao/huawei/test1/SDK-gcc/cdn/io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1484613112 source:/home/shaoshao/huawei/20170304/SDK-gcc/cdn/cdn.cpp
+	"deploy.h"
+	"lib_io.h"
+	"lib_time.h"
+	"stdio.h"
+
+1488536274 /home/shaoshao/huawei/20170304/SDK-gcc/cdn/deploy.h
+	"lib/lib_io.h"
+
+1484613844 /home/shaoshao/huawei/20170304/SDK-gcc/cdn/lib/lib_io.h
+
+1484529734 /home/shaoshao/huawei/20170304/SDK-gcc/cdn/lib/lib_time.h
+
+1484615570 source:/home/shaoshao/huawei/20170304/SDK-gcc/cdn/io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1488702378 source:/home/shaoshao/huawei/20170304/SDK-gcc/cdn/deploy.cpp
+	"deploy.h"
+	<stdio.h>
+	<memory.h>
+	<iostream>
+	<vector>
+	<cstdlib>
+	<cstdio>
+	<string>
+	<cstring>
+	<algorithm>
+	<queue>
+
+1484613112 source:/home/shaoshao/huawei/20170305/SDK-gcc/cdn/cdn.cpp
+	"deploy.h"
+	"lib_io.h"
+	"lib_time.h"
+	"stdio.h"
+
+1488536274 /home/shaoshao/huawei/20170305/SDK-gcc/cdn/deploy.h
+	"lib/lib_io.h"
+
+1484613844 /home/shaoshao/huawei/20170305/SDK-gcc/cdn/lib/lib_io.h
+
+1484529734 /home/shaoshao/huawei/20170305/SDK-gcc/cdn/lib/lib_time.h
+
+1484615570 source:/home/shaoshao/huawei/20170305/SDK-gcc/cdn/io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1488705429 source:/home/shaoshao/huawei/20170305/SDK-gcc/cdn/deploy.cpp
+	"deploy.h"
+	<stdio.h>
+	<memory.h>
+	<iostream>
+	<vector>
+	<cstdlib>
+	<cstdio>
+	<string>
+	<cstring>
+	<algorithm>
+	<queue>
+
+1484613112 source:/home/shaoshao/huawei/20170306/SDK-gcc/cdn/cdn.cpp
+	"deploy.h"
+	"lib_io.h"
+	"lib_time.h"
+	"stdio.h"
+
+1488536274 /home/shaoshao/huawei/20170306/SDK-gcc/cdn/deploy.h
+	"lib/lib_io.h"
+
+1484613844 /home/shaoshao/huawei/20170306/SDK-gcc/cdn/lib/lib_io.h
+
+1484529734 /home/shaoshao/huawei/20170306/SDK-gcc/cdn/lib/lib_time.h
+
+1488765346 source:/home/shaoshao/huawei/20170306/SDK-gcc/cdn/deploy.cpp
+	"deploy.h"
+	<stdio.h>
+	<memory.h>
+	<iostream>
+	<vector>
+	<cstdlib>
+	<cstdio>
+	<string>
+	<cstring>
+	<algorithm>
+	<queue>
+
+1484615570 source:/home/shaoshao/huawei/20170306/SDK-gcc/cdn/io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1484613112 source:/home/shaoshao/huawei/20170306-2/SDK-gcc/cdn/cdn.cpp
+	"deploy.h"
+	"lib_io.h"
+	"lib_time.h"
+	"stdio.h"
+
+1488536274 /home/shaoshao/huawei/20170306-2/SDK-gcc/cdn/deploy.h
+	"lib/lib_io.h"
+
+1484613844 /home/shaoshao/huawei/20170306-2/SDK-gcc/cdn/lib/lib_io.h
+
+1484529734 /home/shaoshao/huawei/20170306-2/SDK-gcc/cdn/lib/lib_time.h
+
+1484615570 source:/home/shaoshao/huawei/20170306-2/SDK-gcc/cdn/io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1488767676 source:/home/shaoshao/huawei/20170306-2/SDK-gcc/cdn/deploy.cpp
+	"deploy.h"
+	<stdio.h>
+	<memory.h>
+	<iostream>
+	<vector>
+	<cstdlib>
+	<cstdio>
+	<string>
+	<cstring>
+	<algorithm>
+	<queue>
+
+1484613112 source:/home/shaoshao/huawei/20170306-3/SDK-gcc/cdn/cdn.cpp
+	"deploy.h"
+	"lib_io.h"
+	"lib_time.h"
+	"stdio.h"
+
+1488536274 /home/shaoshao/huawei/20170306-3/SDK-gcc/cdn/deploy.h
+	"lib/lib_io.h"
+
+1484613844 /home/shaoshao/huawei/20170306-3/SDK-gcc/cdn/lib/lib_io.h
+
+1484529734 /home/shaoshao/huawei/20170306-3/SDK-gcc/cdn/lib/lib_time.h
+
+1484615570 source:/home/shaoshao/huawei/20170306-3/SDK-gcc/cdn/io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1488768219 source:/home/shaoshao/huawei/20170306-3/SDK-gcc/cdn/deploy.cpp
+	"deploy.h"
+	<stdio.h>
+	<memory.h>
+	<iostream>
+	<vector>
+	<cstdlib>
+	<cstdio>
+	<string>
+	<cstring>
+	<algorithm>
+	<queue>
+
+1484613112 source:/home/shaoshao/huawei/20170306-4/SDK-gcc/cdn/cdn.cpp
+	"deploy.h"
+	"lib_io.h"
+	"lib_time.h"
+	"stdio.h"
+
+1488536274 /home/shaoshao/huawei/20170306-4/SDK-gcc/cdn/deploy.h
+	"lib/lib_io.h"
+
+1484613844 /home/shaoshao/huawei/20170306-4/SDK-gcc/cdn/lib/lib_io.h
+
+1484529734 /home/shaoshao/huawei/20170306-4/SDK-gcc/cdn/lib/lib_time.h
+
+1484615570 source:/home/shaoshao/huawei/20170306-4/SDK-gcc/cdn/io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1488771651 source:/home/shaoshao/huawei/20170306-4/SDK-gcc/cdn/deploy.cpp
+	"deploy.h"
+	<stdio.h>
+	<memory.h>
+	<iostream>
+	<vector>
+	<cstdlib>
+	<cstdio>
+	<string>
+	<cstring>
+	<algorithm>
+	<queue>
+
+1484613112 source:/home/shaoshao/huawei/20170306-5/SDK-gcc/cdn/cdn.cpp
+	"deploy.h"
+	"lib_io.h"
+	"lib_time.h"
+	"stdio.h"
+
+1488536274 /home/shaoshao/huawei/20170306-5/SDK-gcc/cdn/deploy.h
+	"lib/lib_io.h"
+
+1484613844 /home/shaoshao/huawei/20170306-5/SDK-gcc/cdn/lib/lib_io.h
+
+1484529734 /home/shaoshao/huawei/20170306-5/SDK-gcc/cdn/lib/lib_time.h
+
+1484615570 source:/home/shaoshao/huawei/20170306-5/SDK-gcc/cdn/io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1488784688 source:/home/shaoshao/huawei/20170306-5/SDK-gcc/cdn/deploy.cpp
+	"deploy.h"
+	<stdio.h>
+	<memory.h>
+	<iostream>
+	<vector>
+	<cstdlib>
+	<cstdio>
+	<string>
+	<cstring>
+	<algorithm>
+	<queue>
+
+1484613112 source:/home/shaoshao/huawei/20170306-6/SDK-gcc/cdn/cdn.cpp
+	"deploy.h"
+	"lib_io.h"
+	"lib_time.h"
+	"stdio.h"
+
+1488536274 /home/shaoshao/huawei/20170306-6/SDK-gcc/cdn/deploy.h
+	"lib/lib_io.h"
+
+1484613844 /home/shaoshao/huawei/20170306-6/SDK-gcc/cdn/lib/lib_io.h
+
+1484529734 /home/shaoshao/huawei/20170306-6/SDK-gcc/cdn/lib/lib_time.h
+
+1484615570 source:/home/shaoshao/huawei/20170306-6/SDK-gcc/cdn/io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1488810306 source:/home/shaoshao/huawei/20170306-6/SDK-gcc/cdn/deploy.cpp
+	"deploy.h"
+	<stdio.h>
+	<memory.h>
+	<iostream>
+	<vector>
+	<cstdlib>
+	<cstdio>
+	<string>
+	<cstring>
+	<algorithm>
+	<queue>
+	<stack>
+
+1484613112 source:/home/shaoshao/huawei/20170307/SDK-gcc/cdn/cdn.cpp
+	"deploy.h"
+	"lib_io.h"
+	"lib_time.h"
+	"stdio.h"
+
+1488536274 /home/shaoshao/huawei/20170307/SDK-gcc/cdn/deploy.h
+	"lib/lib_io.h"
+
+1484613844 /home/shaoshao/huawei/20170307/SDK-gcc/cdn/lib/lib_io.h
+
+1484529734 /home/shaoshao/huawei/20170307/SDK-gcc/cdn/lib/lib_time.h
+
+1484615570 source:/home/shaoshao/huawei/20170307/SDK-gcc/cdn/io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1488854916 source:/home/shaoshao/huawei/20170307/SDK-gcc/cdn/deploy.cpp
+	"deploy.h"
+	<stdio.h>
+	<memory.h>
+	<iostream>
+	<vector>
+	<cstdlib>
+	<cstdio>
+	<string>
+	<cstring>
+	<algorithm>
+	<queue>
+	<stack>
+	<stdlib.h>
+
+1484613112 source:/home/shaoshao/huawei/20170307_2/SDK-gcc/cdn/cdn.cpp
+	"deploy.h"
+	"lib_io.h"
+	"lib_time.h"
+	"stdio.h"
+
+1488861407 /home/shaoshao/huawei/20170307_2/SDK-gcc/cdn/deploy.h
+	"lib_io.h"
+
+1484613844 /home/shaoshao/huawei/20170307_2/SDK-gcc/cdn/lib/lib_io.h
+
+1484529734 /home/shaoshao/huawei/20170307_2/SDK-gcc/cdn/lib/lib_time.h
+
+1484615570 source:/home/shaoshao/huawei/20170307_2/SDK-gcc/cdn/io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1488864364 source:/home/shaoshao/huawei/20170307_2/SDK-gcc/cdn/deploy.cpp
+	"deploy.h"
+	<stdio.h>
+	<memory.h>
+	<iostream>
+	<vector>
+	<cstdlib>
+	<cstdio>
+	<string>
+	<cstring>
+	<algorithm>
+	<queue>
+	<stack>
+	<stdlib.h>
+
+1484613112 source:/home/shaoshao/huawei/20170307-3/SDK-gcc/cdn/cdn.cpp
+	"deploy.h"
+	"lib_io.h"
+	"lib_time.h"
+	"stdio.h"
+
+1488861407 /home/shaoshao/huawei/20170307-3/SDK-gcc/cdn/deploy.h
+	"lib_io.h"
+
+1484613844 /home/shaoshao/huawei/20170307-3/SDK-gcc/cdn/lib/lib_io.h
+
+1484529734 /home/shaoshao/huawei/20170307-3/SDK-gcc/cdn/lib/lib_time.h
+
+1484615570 source:/home/shaoshao/huawei/20170307-3/SDK-gcc/cdn/io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1488874598 source:/home/shaoshao/huawei/20170307-3/SDK-gcc/cdn/deploy.cpp
+	"deploy.h"
+	<stdio.h>
+	<memory.h>
+	<iostream>
+	<vector>
+	<cstdlib>
+	<cstdio>
+	<string>
+	<cstring>
+	<algorithm>
+	<queue>
+	<stack>
+	<stdlib.h>
+
+1484613112 source:/home/shaoshao/huawei/20170307-4/SDK-gcc/cdn/cdn.cpp
+	"deploy.h"
+	"lib_io.h"
+	"lib_time.h"
+	"stdio.h"
+
+1488861407 /home/shaoshao/huawei/20170307-4/SDK-gcc/cdn/deploy.h
+	"lib_io.h"
+
+1484613844 /home/shaoshao/huawei/20170307-4/SDK-gcc/cdn/lib/lib_io.h
+
+1484529734 /home/shaoshao/huawei/20170307-4/SDK-gcc/cdn/lib/lib_time.h
+
+1484615570 source:/home/shaoshao/huawei/20170307-4/SDK-gcc/cdn/io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1488883966 source:/home/shaoshao/huawei/20170307-4/SDK-gcc/cdn/deploy.cpp
+	"deploy.h"
+	<stdio.h>
+	<memory.h>
+	<iostream>
+	<vector>
+	<cstdlib>
+	<cstdio>
+	<string>
+	<cstring>
+	<algorithm>
+	<queue>
+	<stack>
+	<stdlib.h>
+
+1484613112 source:/home/shaoshao/huawei/20170307-5/SDK-gcc/cdn/cdn.cpp
+	"deploy.h"
+	"lib_io.h"
+	"lib_time.h"
+	"stdio.h"
+
+1488861407 /home/shaoshao/huawei/20170307-5/SDK-gcc/cdn/deploy.h
+	"lib_io.h"
+
+1484613844 /home/shaoshao/huawei/20170307-5/SDK-gcc/cdn/lib/lib_io.h
+
+1484529734 /home/shaoshao/huawei/20170307-5/SDK-gcc/cdn/lib/lib_time.h
+
+1484615570 source:/home/shaoshao/huawei/20170307-5/SDK-gcc/cdn/io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1488891500 source:/home/shaoshao/huawei/20170307-5/SDK-gcc/cdn/deploy.cpp
+	"deploy.h"
+	<stdio.h>
+	<memory.h>
+	<iostream>
+	<vector>
+	<cstdlib>
+	<cstdio>
+	<string>
+	<cstring>
+	<algorithm>
+	<queue>
+	<stack>
+	<stdlib.h>
+
+1484613112 source:/home/shaoshao/huawei/20170308/SDK-gcc/cdn/cdn.cpp
+	"deploy.h"
+	"lib_io.h"
+	"lib_time.h"
+	"stdio.h"
+
+1488861407 /home/shaoshao/huawei/20170308/SDK-gcc/cdn/deploy.h
+	"lib_io.h"
+
+1484613844 /home/shaoshao/huawei/20170308/SDK-gcc/cdn/lib/lib_io.h
+
+1484529734 /home/shaoshao/huawei/20170308/SDK-gcc/cdn/lib/lib_time.h
+
+1484615570 source:/home/shaoshao/huawei/20170308/SDK-gcc/cdn/io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1488935712 source:/home/shaoshao/huawei/20170308/SDK-gcc/cdn/deploy.cpp
+	"deploy.h"
+	<stdio.h>
+	<memory.h>
+	<iostream>
+	<vector>
+	<cstdlib>
+	<cstdio>
+	<string>
+	<cstring>
+	<algorithm>
+	<queue>
+	<stack>
+	<stdlib.h>
+
+1484613112 source:/home/shaoshao/huawei/20170309/SDK-gcc/cdn/cdn.cpp
+	"deploy.h"
+	"lib_io.h"
+	"lib_time.h"
+	"stdio.h"
+
+1488861407 /home/shaoshao/huawei/20170309/SDK-gcc/cdn/deploy.h
+	"lib_io.h"
+
+1484613844 /home/shaoshao/huawei/20170309/SDK-gcc/cdn/lib/lib_io.h
+
+1484529734 /home/shaoshao/huawei/20170309/SDK-gcc/cdn/lib/lib_time.h
+
+1484615570 source:/home/shaoshao/huawei/20170309/SDK-gcc/cdn/io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1489025760 source:/home/shaoshao/huawei/20170309/SDK-gcc/cdn/deploy.cpp
+	"deploy.h"
+	<stdio.h>
+	<memory.h>
+	<iostream>
+	<vector>
+	<cstdlib>
+	<cstdio>
+	<string>
+	<cstring>
+	<algorithm>
+	<queue>
+	<stack>
+	<stdlib.h>
+
+1484613112 source:/home/shaoshao/huawei/20170309-2/SDK-gcc/cdn/cdn.cpp
+	"deploy.h"
+	"lib_io.h"
+	"lib_time.h"
+	"stdio.h"
+
+1488861407 /home/shaoshao/huawei/20170309-2/SDK-gcc/cdn/deploy.h
+	"lib_io.h"
+
+1484613844 /home/shaoshao/huawei/20170309-2/SDK-gcc/cdn/lib/lib_io.h
+
+1484529734 /home/shaoshao/huawei/20170309-2/SDK-gcc/cdn/lib/lib_time.h
+
+1484615570 source:/home/shaoshao/huawei/20170309-2/SDK-gcc/cdn/io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1489031213 source:/home/shaoshao/huawei/20170309-2/SDK-gcc/cdn/deploy.cpp
+	"deploy.h"
+	<stdio.h>
+	<memory.h>
+	<iostream>
+	<vector>
+	<cstdlib>
+	<cstdio>
+	<string>
+	<cstring>
+	<algorithm>
+	<queue>
+	<stack>
+	<stdlib.h>
+
+1484613112 source:/home/shaoshao/huawei/20170309-3/SDK-gcc/cdn/cdn.cpp
+	"deploy.h"
+	"lib_io.h"
+	"lib_time.h"
+	"stdio.h"
+
+1484613606 /home/shaoshao/huawei/20170309-3/SDK-gcc/cdn/deploy.h
+	"lib_io.h"
+
+1484613844 /home/shaoshao/huawei/20170309-3/SDK-gcc/cdn/lib/lib_io.h
+
+1484529734 /home/shaoshao/huawei/20170309-3/SDK-gcc/cdn/lib/lib_time.h
+
+1489050587 source:/home/shaoshao/huawei/20170309-3/SDK-gcc/cdn/deploy.cpp
+	"deploy.h"
+	<stdio.h>
+	<memory.h>
+	<iostream>
+	<vector>
+	<cstdlib>
+	<cstdio>
+	<string>
+	<cstring>
+	<algorithm>
+	<queue>
+	<stack>
+	<stdlib.h>
+
+1484615570 source:/home/shaoshao/huawei/20170309-3/SDK-gcc/cdn/io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1484613112 source:/home/shaoshao/huawei/20170309-4/SDK-gcc/cdn/cdn.cpp
+	"deploy.h"
+	"lib_io.h"
+	"lib_time.h"
+	"stdio.h"
+
+1484613606 /home/shaoshao/huawei/20170309-4/SDK-gcc/cdn/deploy.h
+	"lib_io.h"
+
+1484613844 /home/shaoshao/huawei/20170309-4/SDK-gcc/cdn/lib/lib_io.h
+
+1484529734 /home/shaoshao/huawei/20170309-4/SDK-gcc/cdn/lib/lib_time.h
+
+1484615570 source:/home/shaoshao/huawei/20170309-4/SDK-gcc/cdn/io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1489052144 source:/home/shaoshao/huawei/20170309-4/SDK-gcc/cdn/deploy.cpp
+	"deploy.h"
+	<stdio.h>
+	<memory.h>
+	<iostream>
+	<vector>
+	<cstdlib>
+	<cstdio>
+	<string>
+	<cstring>
+	<algorithm>
+	<queue>
+	<stack>
+	<stdlib.h>
+
+1484613112 source:/home/shaoshao/huawei/20170309-5/SDK-gcc/cdn/cdn.cpp
+	"deploy.h"
+	"lib_io.h"
+	"lib_time.h"
+	"stdio.h"
+
+1484613606 /home/shaoshao/huawei/20170309-5/SDK-gcc/cdn/deploy.h
+	"lib_io.h"
+
+1484613844 /home/shaoshao/huawei/20170309-5/SDK-gcc/cdn/lib/lib_io.h
+
+1484529734 /home/shaoshao/huawei/20170309-5/SDK-gcc/cdn/lib/lib_time.h
+
+1484615570 source:/home/shaoshao/huawei/20170309-5/SDK-gcc/cdn/io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1489057245 source:/home/shaoshao/huawei/20170309-5/SDK-gcc/cdn/deploy.cpp
+	"deploy.h"
+	<stdio.h>
+	<memory.h>
+	<iostream>
+	<vector>
+	<cstdlib>
+	<cstdio>
+	<string>
+	<cstring>
+	<algorithm>
+	<queue>
+	<stack>
+	<stdlib.h>
+
+1484613112 source:/home/shaoshao/huawei/20170309-6/SDK-gcc/cdn/cdn.cpp
+	"deploy.h"
+	"lib_io.h"
+	"lib_time.h"
+	"stdio.h"
+
+1484613606 /home/shaoshao/huawei/20170309-6/SDK-gcc/cdn/deploy.h
+	"lib_io.h"
+
+1484613844 /home/shaoshao/huawei/20170309-6/SDK-gcc/cdn/lib/lib_io.h
+
+1484529734 /home/shaoshao/huawei/20170309-6/SDK-gcc/cdn/lib/lib_time.h
+
+1489141694 source:/home/shaoshao/huawei/20170309-6/SDK-gcc/cdn/deploy.cpp
+	"deploy.h"
+	<stdio.h>
+	<memory.h>
+	<iostream>
+	<vector>
+	<cstdlib>
+	<cstdio>
+	<string>
+	<cstring>
+	<algorithm>
+	<queue>
+	<stack>
+	<stdlib.h>
+
+1484615570 source:/home/shaoshao/huawei/20170309-6/SDK-gcc/cdn/io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1484613112 source:/home/shaoshao/huawei/201703010/SDK-gcc/cdn/cdn.cpp
+	"deploy.h"
+	"lib_io.h"
+	"lib_time.h"
+	"stdio.h"
+
+1484613606 /home/shaoshao/huawei/201703010/SDK-gcc/cdn/deploy.h
+	"lib_io.h"
+
+1484613844 /home/shaoshao/huawei/201703010/SDK-gcc/cdn/lib/lib_io.h
+
+1484529734 /home/shaoshao/huawei/201703010/SDK-gcc/cdn/lib/lib_time.h
+
+1489410235 source:/home/shaoshao/huawei/201703010/SDK-gcc/cdn/deploy.cpp
+	"deploy.h"
+	<stdio.h>
+	<memory.h>
+	<iostream>
+	<vector>
+	<cstdlib>
+	<cstdio>
+	<string>
+	<cstring>
+	<algorithm>
+	<queue>
+	<stack>
+	<stdlib.h>
+
+1484615570 source:/home/shaoshao/huawei/201703010/SDK-gcc/cdn/io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1484613112 source:/home/shaoshao/huawei/201703014/SDK-gcc/cdn/cdn.cpp
+	"deploy.h"
+	"lib_io.h"
+	"lib_time.h"
+	"stdio.h"
+
+1484613606 /home/shaoshao/huawei/201703014/SDK-gcc/cdn/deploy.h
+	"lib_io.h"
+
+1484613844 /home/shaoshao/huawei/201703014/SDK-gcc/cdn/lib/lib_io.h
+
+1484529734 /home/shaoshao/huawei/201703014/SDK-gcc/cdn/lib/lib_time.h
+
+1484615570 source:/home/shaoshao/huawei/201703014/SDK-gcc/cdn/io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1489564700 source:/home/shaoshao/huawei/201703014/SDK-gcc/cdn/deploy.cpp
+	"deploy.h"
+	<iostream>
+	<vector>
+	<cstdlib>
+	<cstdio>
+	<string>
+	<cstring>
+	<queue>
+	<stdlib.h>
+
+1484613112 source:/home/shaoshao/huawei/201703016/SDK-gcc/cdn/cdn.cpp
+	"deploy.h"
+	"lib_io.h"
+	"lib_time.h"
+	"stdio.h"
+
+1484613606 /home/shaoshao/huawei/201703016/SDK-gcc/cdn/deploy.h
+	"lib_io.h"
+
+1484613844 /home/shaoshao/huawei/201703016/SDK-gcc/cdn/lib/lib_io.h
+
+1484529734 /home/shaoshao/huawei/201703016/SDK-gcc/cdn/lib/lib_time.h
+
+1484615570 source:/home/shaoshao/huawei/201703016/SDK-gcc/cdn/io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1489718404 source:/home/shaoshao/huawei/201703016/SDK-gcc/cdn/deploy.cpp
+	"deploy.h"
+	<iostream>
+	<vector>
+	<cstdlib>
+	<cstdio>
+	<string>
+	<cstring>
+	<queue>
+	<stdlib.h>
+
+1484613112 source:/home/shaoshao/huawei/201703017/SDK-gcc/cdn/cdn.cpp
+	"deploy.h"
+	"lib_io.h"
+	"lib_time.h"
+	"stdio.h"
+
+1484613606 /home/shaoshao/huawei/201703017/SDK-gcc/cdn/deploy.h
+	"lib_io.h"
+
+1484613844 /home/shaoshao/huawei/201703017/SDK-gcc/cdn/lib/lib_io.h
+
+1484529734 /home/shaoshao/huawei/201703017/SDK-gcc/cdn/lib/lib_time.h
+
+1489718404 source:/home/shaoshao/huawei/201703017/SDK-gcc/cdn/deploy.cpp
+	"deploy.h"
+	<iostream>
+	<vector>
+	<cstdlib>
+	<cstdio>
+	<string>
+	<cstring>
+	<queue>
+	<stdlib.h>
+
+1484615570 source:/home/shaoshao/huawei/201703017/SDK-gcc/cdn/io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1484613112 source:/home/shaoshao/huawei/201703017-2/SDK-gcc/cdn/cdn.cpp
+	"deploy.h"
+	"lib_io.h"
+	"lib_time.h"
+	"stdio.h"
+
+1484613606 /home/shaoshao/huawei/201703017-2/SDK-gcc/cdn/deploy.h
+	"lib_io.h"
+
+1484613844 /home/shaoshao/huawei/201703017-2/SDK-gcc/cdn/lib/lib_io.h
+
+1484529734 /home/shaoshao/huawei/201703017-2/SDK-gcc/cdn/lib/lib_time.h
+
+1484615570 source:/home/shaoshao/huawei/201703017-2/SDK-gcc/cdn/io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1489740480 source:/home/shaoshao/huawei/201703017-2/SDK-gcc/cdn/deploy.cpp
+	"deploy.h"
+	<iostream>
+	<vector>
+	<cstdlib>
+	<cstdio>
+	<string>
+	<cstring>
+	<queue>
+	<stdlib.h>
+
+1484613112 source:/home/shaoshao/huawei/201703017-3/SDK-gcc/cdn/cdn.cpp
+	"deploy.h"
+	"lib_io.h"
+	"lib_time.h"
+	"stdio.h"
+
+1484613606 /home/shaoshao/huawei/201703017-3/SDK-gcc/cdn/deploy.h
+	"lib_io.h"
+
+1484613844 /home/shaoshao/huawei/201703017-3/SDK-gcc/cdn/lib/lib_io.h
+
+1484529734 /home/shaoshao/huawei/201703017-3/SDK-gcc/cdn/lib/lib_time.h
+
+1484615570 source:/home/shaoshao/huawei/201703017-3/SDK-gcc/cdn/io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1489807299 source:/home/shaoshao/huawei/201703017-3/SDK-gcc/cdn/deploy.cpp
+	"deploy.h"
+	<iostream>
+	<vector>
+	<cstdlib>
+	<cstdio>
+	<string>
+	<cstring>
+	<queue>
+	<stdlib.h>
+
+1484613112 source:/home/shaoshao/huawei/201703018/SDK-gcc/cdn/cdn.cpp
+	"deploy.h"
+	"lib_io.h"
+	"lib_time.h"
+	"stdio.h"
+
+1484613606 /home/shaoshao/huawei/201703018/SDK-gcc/cdn/deploy.h
+	"lib_io.h"
+
+1484613844 /home/shaoshao/huawei/201703018/SDK-gcc/cdn/lib/lib_io.h
+
+1484529734 /home/shaoshao/huawei/201703018/SDK-gcc/cdn/lib/lib_time.h
+
+1484615570 source:/home/shaoshao/huawei/201703018/SDK-gcc/cdn/io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1489842636 source:/home/shaoshao/huawei/201703018/SDK-gcc/cdn/deploy.cpp
+	"deploy.h"
+	<iostream>
+	<vector>
+	<cstdlib>
+	<cstdio>
+	<string>
+	<cstring>
+	<queue>
+	<stdlib.h>
+	<time.h>
+
+1484613112 source:/home/shaoshao/huawei/201703019/SDK-gcc/cdn/cdn.cpp
+	"deploy.h"
+	"lib_io.h"
+	"lib_time.h"
+	"stdio.h"
+
+1484613606 /home/shaoshao/huawei/201703019/SDK-gcc/cdn/deploy.h
+	"lib_io.h"
+
+1484613844 /home/shaoshao/huawei/201703019/SDK-gcc/cdn/lib/lib_io.h
+
+1484529734 /home/shaoshao/huawei/201703019/SDK-gcc/cdn/lib/lib_time.h
+
+1489891789 source:/home/shaoshao/huawei/201703019/SDK-gcc/cdn/deploy.cpp
+	"deploy.h"
+	<iostream>
+	<vector>
+	<cstdlib>
+	<cstdio>
+	<string>
+	<cstring>
+	<queue>
+	<stdlib.h>
+	<time.h>
+
+1484615570 source:/home/shaoshao/huawei/201703019/SDK-gcc/cdn/io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1484613112 source:/home/shaoshao/huawei/201703019-2/SDK-gcc/cdn/cdn.cpp
+	"deploy.h"
+	"lib_io.h"
+	"lib_time.h"
+	"stdio.h"
+
+1484613606 /home/shaoshao/huawei/201703019-2/SDK-gcc/cdn/deploy.h
+	"lib_io.h"
+
+1484613844 /home/shaoshao/huawei/201703019-2/SDK-gcc/cdn/lib/lib_io.h
+
+1484529734 /home/shaoshao/huawei/201703019-2/SDK-gcc/cdn/lib/lib_time.h
+
+1484615570 source:/home/shaoshao/huawei/201703019-2/SDK-gcc/cdn/io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1489903559 source:/home/shaoshao/huawei/201703019-2/SDK-gcc/cdn/deploy.cpp
+	"deploy.h"
+	<iostream>
+	<vector>
+	<cstdlib>
+	<cstdio>
+	<string>
+	<cstring>
+	<queue>
+	<stdlib.h>
+	<time.h>
+
+1484613112 source:/home/shaoshao/huawei/201703019-3/SDK-gcc/cdn/cdn.cpp
+	"deploy.h"
+	"lib_io.h"
+	"lib_time.h"
+	"stdio.h"
+
+1484613606 /home/shaoshao/huawei/201703019-3/SDK-gcc/cdn/deploy.h
+	"lib_io.h"
+
+1484613844 /home/shaoshao/huawei/201703019-3/SDK-gcc/cdn/lib/lib_io.h
+
+1484529734 /home/shaoshao/huawei/201703019-3/SDK-gcc/cdn/lib/lib_time.h
+
+1484615570 source:/home/shaoshao/huawei/201703019-3/SDK-gcc/cdn/io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1489929664 source:/home/shaoshao/huawei/201703019-3/SDK-gcc/cdn/deploy.cpp
+	"deploy.h"
+	<iostream>
+	<vector>
+	<cstdlib>
+	<cstdio>
+	<string>
+	<cstring>
+	<queue>
+	<stdlib.h>
+	<time.h>
+
+1484613112 source:/home/shaoshao/huawei/201703019-3 (copy)/SDK-gcc/cdn/cdn.cpp
+	"deploy.h"
+	"lib_io.h"
+	"lib_time.h"
+	"stdio.h"
+
+1484613606 /home/shaoshao/huawei/201703019-3 (copy)/SDK-gcc/cdn/deploy.h
+	"lib_io.h"
+
+1484613844 /home/shaoshao/huawei/201703019-3 (copy)/SDK-gcc/cdn/lib/lib_io.h
+
+1484529734 /home/shaoshao/huawei/201703019-3 (copy)/SDK-gcc/cdn/lib/lib_time.h
+
+1484615570 source:/home/shaoshao/huawei/201703019-3 (copy)/SDK-gcc/cdn/io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1489932689 source:/home/shaoshao/huawei/201703019-3 (copy)/SDK-gcc/cdn/deploy.cpp
+	"deploy.h"
+	<iostream>
+	<vector>
+	<cstdlib>
+	<cstdio>
+	<string>
+	<cstring>
+	<queue>
+	<stdlib.h>
+	<time.h>
+
+1484613112 source:/home/shaoshao/huawei/201703019-5/SDK-gcc/cdn/cdn.cpp
+	"deploy.h"
+	"lib_io.h"
+	"lib_time.h"
+	"stdio.h"
+
+1484613606 /home/shaoshao/huawei/201703019-5/SDK-gcc/cdn/deploy.h
+	"lib_io.h"
+
+1484613844 /home/shaoshao/huawei/201703019-5/SDK-gcc/cdn/lib/lib_io.h
+
+1484529734 /home/shaoshao/huawei/201703019-5/SDK-gcc/cdn/lib/lib_time.h
+
+1484615570 source:/home/shaoshao/huawei/201703019-5/SDK-gcc/cdn/io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1490000415 source:/home/shaoshao/huawei/201703019-5/SDK-gcc/cdn/deploy.cpp
+	"deploy.h"
+	<iostream>
+	<vector>
+	<cstdlib>
+	<cstdio>
+	<string>
+	<cstring>
+	<queue>
+	<stdlib.h>
+	<time.h>
+	<algorithm>
+
+1484613112 source:/home/shaoshao/huawei/201703020-1/SDK-gcc/cdn/cdn.cpp
+	"deploy.h"
+	"lib_io.h"
+	"lib_time.h"
+	"stdio.h"
+
+1484613606 /home/shaoshao/huawei/201703020-1/SDK-gcc/cdn/deploy.h
+	"lib_io.h"
+
+1484613844 /home/shaoshao/huawei/201703020-1/SDK-gcc/cdn/lib/lib_io.h
+
+1484529734 /home/shaoshao/huawei/201703020-1/SDK-gcc/cdn/lib/lib_time.h
+
+1484615570 source:/home/shaoshao/huawei/201703020-1/SDK-gcc/cdn/io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1490002989 source:/home/shaoshao/huawei/201703020-1/SDK-gcc/cdn/deploy.cpp
+	"deploy.h"
+	<iostream>
+	<vector>
+	<cstdlib>
+	<cstdio>
+	<string>
+	<cstring>
+	<queue>
+	<stdlib.h>
+	<time.h>
+	<algorithm>
+
+1484613112 source:/home/shaoshao/huawei/201703021/SDK-gcc/cdn/cdn.cpp
+	"deploy.h"
+	"lib_io.h"
+	"lib_time.h"
+	"stdio.h"
+
+1484613606 /home/shaoshao/huawei/201703021/SDK-gcc/cdn/deploy.h
+	"lib_io.h"
+
+1484613844 /home/shaoshao/huawei/201703021/SDK-gcc/cdn/lib/lib_io.h
+
+1484529734 /home/shaoshao/huawei/201703021/SDK-gcc/cdn/lib/lib_time.h
+
+1484615570 source:/home/shaoshao/huawei/201703021/SDK-gcc/cdn/io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1490094948 source:/home/shaoshao/huawei/201703021/SDK-gcc/cdn/deploy.cpp
+	"deploy.h"
+	<iostream>
+	<vector>
+	<cstdlib>
+	<cstdio>
+	<string>
+	<cstring>
+	<queue>
+	<stdlib.h>
+	<time.h>
+	<algorithm>
+
+1484613112 source:/home/shaoshao/huawei/201703021-2/SDK-gcc/cdn/cdn.cpp
+	"deploy.h"
+	"lib_io.h"
+	"lib_time.h"
+	"stdio.h"
+
+1484613606 /home/shaoshao/huawei/201703021-2/SDK-gcc/cdn/deploy.h
+	"lib_io.h"
+
+1484613844 /home/shaoshao/huawei/201703021-2/SDK-gcc/cdn/lib/lib_io.h
+
+1484529734 /home/shaoshao/huawei/201703021-2/SDK-gcc/cdn/lib/lib_time.h
+
+1484615570 source:/home/shaoshao/huawei/201703021-2/SDK-gcc/cdn/io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1490254960 source:/home/shaoshao/huawei/201703021-2/SDK-gcc/cdn/deploy.cpp
+	"deploy.h"
+	<iostream>
+	<vector>
+	<cstdlib>
+	<cstdio>
+	<string>
+	<cstring>
+	<queue>
+	<stdlib.h>
+	<time.h>
+	<algorithm>
+
+1484613112 source:/home/shaoshao/huawei/201703023-3/SDK-gcc/cdn/cdn.cpp
+	"deploy.h"
+	"lib_io.h"
+	"lib_time.h"
+	"stdio.h"
+
+1484613606 /home/shaoshao/huawei/201703023-3/SDK-gcc/cdn/deploy.h
+	"lib_io.h"
+
+1484613844 /home/shaoshao/huawei/201703023-3/SDK-gcc/cdn/lib/lib_io.h
+
+1484529734 /home/shaoshao/huawei/201703023-3/SDK-gcc/cdn/lib/lib_time.h
+
+1484615570 source:/home/shaoshao/huawei/201703023-3/SDK-gcc/cdn/io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1490321883 source:/home/shaoshao/huawei/201703023-3/SDK-gcc/cdn/deploy.cpp
+	"deploy.h"
+	<iostream>
+	<vector>
+	<cstdlib>
+	<cstdio>
+	<string>
+	<cstring>
+	<queue>
+	<stdlib.h>
+	<time.h>
+	<algorithm>
+
+1484613112 source:/home/shaoshao/huawei/201703023-4/SDK-gcc/cdn/cdn.cpp
+	"deploy.h"
+	"lib_io.h"
+	"lib_time.h"
+	"stdio.h"
+
+1484613606 /home/shaoshao/huawei/201703023-4/SDK-gcc/cdn/deploy.h
+	"lib_io.h"
+
+1484613844 /home/shaoshao/huawei/201703023-4/SDK-gcc/cdn/lib/lib_io.h
+
+1484529734 /home/shaoshao/huawei/201703023-4/SDK-gcc/cdn/lib/lib_time.h
+
+1484615570 source:/home/shaoshao/huawei/201703023-4/SDK-gcc/cdn/io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1484613112 source:/home/shaoshao/huawei/201703024/SDK-gcc/cdn/cdn.cpp
+	"deploy.h"
+	"lib_io.h"
+	"lib_time.h"
+	"stdio.h"
+
+1484613606 /home/shaoshao/huawei/201703024/SDK-gcc/cdn/deploy.h
+	"lib_io.h"
+
+1484613844 /home/shaoshao/huawei/201703024/SDK-gcc/cdn/lib/lib_io.h
+
+1484529734 /home/shaoshao/huawei/201703024/SDK-gcc/cdn/lib/lib_time.h
+
+1484615570 source:/home/shaoshao/huawei/201703024/SDK-gcc/cdn/io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1490433902 source:/home/shaoshao/huawei/201703024/SDK-gcc/cdn/deploy.cpp
+	"deploy.h"
+	<iostream>
+	<vector>
+	<cstdlib>
+	<cstdio>
+	<string>
+	<cstring>
+	<queue>
+	<stdlib.h>
+	<time.h>
+	<algorithm>
+
+1484613112 source:/home/shaoshao/huawei/201703025/SDK-gcc/cdn/cdn.cpp
+	"deploy.h"
+	"lib_io.h"
+	"lib_time.h"
+	"stdio.h"
+
+1484613606 /home/shaoshao/huawei/201703025/SDK-gcc/cdn/deploy.h
+	"lib_io.h"
+
+1484613844 /home/shaoshao/huawei/201703025/SDK-gcc/cdn/lib/lib_io.h
+
+1484529734 /home/shaoshao/huawei/201703025/SDK-gcc/cdn/lib/lib_time.h
+
+1484615570 source:/home/shaoshao/huawei/201703025/SDK-gcc/cdn/io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1490454509 source:/home/shaoshao/huawei/201703025/SDK-gcc/cdn/deploy.cpp
+	"deploy.h"
+	<iostream>
+	<vector>
+	<cstdlib>
+	<cstdio>
+	<string>
+	<cstring>
+	<queue>
+	<stdlib.h>
+	<time.h>
+	<algorithm>
+
+1484613112 source:/home/shaoshao/huawei/201703025-2/SDK-gcc/cdn/cdn.cpp
+	"deploy.h"
+	"lib_io.h"
+	"lib_time.h"
+	"stdio.h"
+
+1484613606 /home/shaoshao/huawei/201703025-2/SDK-gcc/cdn/deploy.h
+	"lib_io.h"
+
+1484613844 /home/shaoshao/huawei/201703025-2/SDK-gcc/cdn/lib/lib_io.h
+
+1484529734 /home/shaoshao/huawei/201703025-2/SDK-gcc/cdn/lib/lib_time.h
+
+1484615570 source:/home/shaoshao/huawei/201703025-2/SDK-gcc/cdn/io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1484613112 source:/home/shaoshao/huawei/201703026/SDK-gcc/cdn/cdn.cpp
+	"deploy.h"
+	"lib_io.h"
+	"lib_time.h"
+	"stdio.h"
+
+1484613606 /home/shaoshao/huawei/201703026/SDK-gcc/cdn/deploy.h
+	"lib_io.h"
+
+1484613844 /home/shaoshao/huawei/201703026/SDK-gcc/cdn/lib/lib_io.h
+
+1484529734 /home/shaoshao/huawei/201703026/SDK-gcc/cdn/lib/lib_time.h
+
+1484615570 source:/home/shaoshao/huawei/201703026/SDK-gcc/cdn/io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1490521397 source:/home/shaoshao/huawei/201703026/SDK-gcc/cdn/deploy.cpp
+	"deploy.h"
+	<iostream>
+	<vector>
+	<cstdlib>
+	<cstdio>
+	<string>
+	<cstring>
+	<queue>
+	<stdlib.h>
+	<time.h>
+	<algorithm>
+
+1484613112 source:/home/shaoshao/huawei/201703028/SDK-gcc/cdn/cdn.cpp
+	"deploy.h"
+	"lib_io.h"
+	"lib_time.h"
+	"stdio.h"
+
+1484613606 /home/shaoshao/huawei/201703028/SDK-gcc/cdn/deploy.h
+	"lib_io.h"
+
+1484613844 /home/shaoshao/huawei/201703028/SDK-gcc/cdn/lib/lib_io.h
+
+1484529734 /home/shaoshao/huawei/201703028/SDK-gcc/cdn/lib/lib_time.h
+
+1484615570 source:/home/shaoshao/huawei/201703028/SDK-gcc/cdn/io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1490672352 source:/home/shaoshao/huawei/201703028/SDK-gcc/cdn/deploy.cpp
+	"deploy.h"
+	<iostream>
+	<vector>
+	<cstdlib>
+	<cstdio>
+	<string>
+	<cstring>
+	<queue>
+	<stdlib.h>
+	<time.h>
+	<algorithm>
+
+1484613112 source:/home/shaoshao/huawei/201703028-7/SDK-gcc/cdn/cdn.cpp
+	"deploy.h"
+	"lib_io.h"
+	"lib_time.h"
+	"stdio.h"
+
+1484613606 /home/shaoshao/huawei/201703028-7/SDK-gcc/cdn/deploy.h
+	"lib_io.h"
+
+1484613844 /home/shaoshao/huawei/201703028-7/SDK-gcc/cdn/lib/lib_io.h
+
+1484529734 /home/shaoshao/huawei/201703028-7/SDK-gcc/cdn/lib/lib_time.h
+
+1484615570 source:/home/shaoshao/huawei/201703028-7/SDK-gcc/cdn/io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1490709758 source:/home/shaoshao/huawei/201703028-7/SDK-gcc/cdn/deploy.cpp
+	"deploy.h"
+	<iostream>
+	<vector>
+	<cstdlib>
+	<cstdio>
+	<string>
+	<cstring>
+	<queue>
+	<stdlib.h>
+	<time.h>
+	<algorithm>
+
+1484613112 source:/home/shaoshao/huawei/201703028-8/SDK-gcc/cdn/cdn.cpp
+	"deploy.h"
+	"lib_io.h"
+	"lib_time.h"
+	"stdio.h"
+
+1484613606 /home/shaoshao/huawei/201703028-8/SDK-gcc/cdn/deploy.h
+	"lib_io.h"
+
+1484613844 /home/shaoshao/huawei/201703028-8/SDK-gcc/cdn/lib/lib_io.h
+
+1484529734 /home/shaoshao/huawei/201703028-8/SDK-gcc/cdn/lib/lib_time.h
+
+1484615570 source:/home/shaoshao/huawei/201703028-8/SDK-gcc/cdn/io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1490765216 source:/home/shaoshao/huawei/201703028-8/SDK-gcc/cdn/deploy.cpp
+	"deploy.h"
+	<iostream>
+	<vector>
+	<cstdlib>
+	<cstdio>
+	<string>
+	<cstring>
+	<queue>
+	<stdlib.h>
+	<time.h>
+	<algorithm>
+
+1484613112 source:/home/shaoshao/huawei/201703029-2/SDK-gcc/cdn/cdn.cpp
+	"deploy.h"
+	"lib_io.h"
+	"lib_time.h"
+	"stdio.h"
+
+1484613606 /home/shaoshao/huawei/201703029-2/SDK-gcc/cdn/deploy.h
+	"lib_io.h"
+
+1484613844 /home/shaoshao/huawei/201703029-2/SDK-gcc/cdn/lib/lib_io.h
+
+1484529734 /home/shaoshao/huawei/201703029-2/SDK-gcc/cdn/lib/lib_time.h
+
+1484615570 source:/home/shaoshao/huawei/201703029-2/SDK-gcc/cdn/io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1484613112 source:/home/shaoshao/huawei/201703029-3/SDK-gcc/cdn/cdn.cpp
+	"deploy.h"
+	"lib_io.h"
+	"lib_time.h"
+	"stdio.h"
+
+1484613606 /home/shaoshao/huawei/201703029-3/SDK-gcc/cdn/deploy.h
+	"lib_io.h"
+
+1484613844 /home/shaoshao/huawei/201703029-3/SDK-gcc/cdn/lib/lib_io.h
+
+1484529734 /home/shaoshao/huawei/201703029-3/SDK-gcc/cdn/lib/lib_time.h
+
+1484615570 source:/home/shaoshao/huawei/201703029-3/SDK-gcc/cdn/io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1490774040 source:/home/shaoshao/huawei/201703029-3/SDK-gcc/cdn/deploy.cpp
+	"deploy.h"
+	<iostream>
+	<vector>
+	<cstdlib>
+	<cstdio>
+	<string>
+	<cstring>
+	<queue>
+	<stdlib.h>
+	<time.h>
+	<algorithm>
+
+1484613112 source:/home/shaoshao/huawei/201703029-4/SDK-gcc/cdn/cdn.cpp
+	"deploy.h"
+	"lib_io.h"
+	"lib_time.h"
+	"stdio.h"
+
+1484613606 /home/shaoshao/huawei/201703029-4/SDK-gcc/cdn/deploy.h
+	"lib_io.h"
+
+1484613844 /home/shaoshao/huawei/201703029-4/SDK-gcc/cdn/lib/lib_io.h
+
+1484529734 /home/shaoshao/huawei/201703029-4/SDK-gcc/cdn/lib/lib_time.h
+
+1490775354 source:/home/shaoshao/huawei/201703029-4/SDK-gcc/cdn/deploy.cpp
+	"deploy.h"
+	<iostream>
+	<vector>
+	<cstdlib>
+	<cstdio>
+	<string>
+	<cstring>
+	<queue>
+	<stdlib.h>
+	<time.h>
+	<algorithm>
+
+1484615570 source:/home/shaoshao/huawei/201703029-4/SDK-gcc/cdn/io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1484613112 source:/home/shaoshao/huawei/201703029-5/SDK-gcc/cdn/cdn.cpp
+	"deploy.h"
+	"lib_io.h"
+	"lib_time.h"
+	"stdio.h"
+
+1484613606 /home/shaoshao/huawei/201703029-5/SDK-gcc/cdn/deploy.h
+	"lib_io.h"
+
+1484613844 /home/shaoshao/huawei/201703029-5/SDK-gcc/cdn/lib/lib_io.h
+
+1484529734 /home/shaoshao/huawei/201703029-5/SDK-gcc/cdn/lib/lib_time.h
+
+1484615570 source:/home/shaoshao/huawei/201703029-5/SDK-gcc/cdn/io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1484613112 source:/home/shaoshao/huawei/201703029-6/SDK-gcc/cdn/cdn.cpp
+	"deploy.h"
+	"lib_io.h"
+	"lib_time.h"
+	"stdio.h"
+
+1484613606 /home/shaoshao/huawei/201703029-6/SDK-gcc/cdn/deploy.h
+	"lib_io.h"
+
+1484613844 /home/shaoshao/huawei/201703029-6/SDK-gcc/cdn/lib/lib_io.h
+
+1484529734 /home/shaoshao/huawei/201703029-6/SDK-gcc/cdn/lib/lib_time.h
+
+1484615570 source:/home/shaoshao/huawei/201703029-6/SDK-gcc/cdn/io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1484613112 source:/home/shaoshao/huawei/201703030-3/SDK-gcc/cdn/cdn.cpp
+	"deploy.h"
+	"lib_io.h"
+	"lib_time.h"
+	"stdio.h"
+
+1484613606 /home/shaoshao/huawei/201703030-3/SDK-gcc/cdn/deploy.h
+	"lib_io.h"
+
+1484613844 /home/shaoshao/huawei/201703030-3/SDK-gcc/cdn/lib/lib_io.h
+
+1484529734 /home/shaoshao/huawei/201703030-3/SDK-gcc/cdn/lib/lib_time.h
+
+1484615570 source:/home/shaoshao/huawei/201703030-3/SDK-gcc/cdn/io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1490850202 source:/home/shaoshao/huawei/201703030-3/SDK-gcc/cdn/deploy.cpp
+	"deploy.h"
+	<iostream>
+	<vector>
+	<cstdlib>
+	<cstdio>
+	<string>
+	<cstring>
+	<queue>
+	<stdlib.h>
+	<time.h>
+	<algorithm>
+
+1484613112 source:/home/shaoshao/huawei/201703030-4/SDK-gcc/cdn/cdn.cpp
+	"deploy.h"
+	"lib_io.h"
+	"lib_time.h"
+	"stdio.h"
+
+1484613606 /home/shaoshao/huawei/201703030-4/SDK-gcc/cdn/deploy.h
+	"lib_io.h"
+
+1484613844 /home/shaoshao/huawei/201703030-4/SDK-gcc/cdn/lib/lib_io.h
+
+1484529734 /home/shaoshao/huawei/201703030-4/SDK-gcc/cdn/lib/lib_time.h
+
+1484615570 source:/home/shaoshao/huawei/201703030-4/SDK-gcc/cdn/io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1490884184 source:/home/shaoshao/huawei/201703030-4/SDK-gcc/cdn/deploy.cpp
+	"deploy.h"
+	<iostream>
+	<vector>
+	<cstdlib>
+	<cstdio>
+	<string>
+	<cstring>
+	<queue>
+	<stdlib.h>
+	<time.h>
+	<algorithm>
+
+1484613112 source:/home/shaoshao/huawei/201703030-6/SDK-gcc/cdn/cdn.cpp
+	"deploy.h"
+	"lib_io.h"
+	"lib_time.h"
+	"stdio.h"
+
+1484613606 /home/shaoshao/huawei/201703030-6/SDK-gcc/cdn/deploy.h
+	"lib_io.h"
+
+1484613844 /home/shaoshao/huawei/201703030-6/SDK-gcc/cdn/lib/lib_io.h
+
+1484529734 /home/shaoshao/huawei/201703030-6/SDK-gcc/cdn/lib/lib_time.h
+
+1484615570 source:/home/shaoshao/huawei/201703030-6/SDK-gcc/cdn/io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1484613112 source:/home/shaoshao/huawei/201703031/SDK-gcc/cdn/cdn.cpp
+	"deploy.h"
+	"lib_io.h"
+	"lib_time.h"
+	"stdio.h"
+
+1484613606 /home/shaoshao/huawei/201703031/SDK-gcc/cdn/deploy.h
+	"lib_io.h"
+
+1484613844 /home/shaoshao/huawei/201703031/SDK-gcc/cdn/lib/lib_io.h
+
+1484529734 /home/shaoshao/huawei/201703031/SDK-gcc/cdn/lib/lib_time.h
+
+1484615570 source:/home/shaoshao/huawei/201703031/SDK-gcc/cdn/io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1490922136 source:/home/shaoshao/huawei/201703031/SDK-gcc/cdn/deploy.cpp
+	"deploy.h"
+	<iostream>
+	<vector>
+	<cstdlib>
+	<cstdio>
+	<string>
+	<cstring>
+	<queue>
+	<stdlib.h>
+	<time.h>
+	<algorithm>
+
+1484613112 source:/home/shaoshao/huawei/201703031-2/SDK-gcc/cdn/cdn.cpp
+	"deploy.h"
+	"lib_io.h"
+	"lib_time.h"
+	"stdio.h"
+
+1484613606 /home/shaoshao/huawei/201703031-2/SDK-gcc/cdn/deploy.h
+	"lib_io.h"
+
+1484613844 /home/shaoshao/huawei/201703031-2/SDK-gcc/cdn/lib/lib_io.h
+
+1484529734 /home/shaoshao/huawei/201703031-2/SDK-gcc/cdn/lib/lib_time.h
+
+1484615570 source:/home/shaoshao/huawei/201703031-2/SDK-gcc/cdn/io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1490938530 source:/home/shaoshao/huawei/201703031-2/SDK-gcc/cdn/deploy.cpp
+	"deploy.h"
+	<iostream>
+	<vector>
+	<cstdlib>
+	<cstdio>
+	<string>
+	<cstring>
+	<queue>
+	<stdlib.h>
+	<time.h>
+	<algorithm>
+
+1484613112 source:/home/shaoshao/huawei/201703031-4/SDK-gcc/cdn/cdn.cpp
+	"deploy.h"
+	"lib_io.h"
+	"lib_time.h"
+	"stdio.h"
+
+1484613606 /home/shaoshao/huawei/201703031-4/SDK-gcc/cdn/deploy.h
+	"lib_io.h"
+
+1484613844 /home/shaoshao/huawei/201703031-4/SDK-gcc/cdn/lib/lib_io.h
+
+1484529734 /home/shaoshao/huawei/201703031-4/SDK-gcc/cdn/lib/lib_time.h
+
+1484615570 source:/home/shaoshao/huawei/201703031-4/SDK-gcc/cdn/io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1490943830 source:/home/shaoshao/huawei/201703031-4/SDK-gcc/cdn/deploy.cpp
+	"deploy.h"
+	<iostream>
+	<vector>
+	<cstdlib>
+	<cstdio>
+	<string>
+	<cstring>
+	<queue>
+	<stdlib.h>
+	<time.h>
+	<algorithm>
+
+1484613112 source:/home/shaoshao/huawei/201703031-5/SDK-gcc/cdn/cdn.cpp
+	"deploy.h"
+	"lib_io.h"
+	"lib_time.h"
+	"stdio.h"
+
+1484613606 /home/shaoshao/huawei/201703031-5/SDK-gcc/cdn/deploy.h
+	"lib_io.h"
+
+1484613844 /home/shaoshao/huawei/201703031-5/SDK-gcc/cdn/lib/lib_io.h
+
+1484529734 /home/shaoshao/huawei/201703031-5/SDK-gcc/cdn/lib/lib_time.h
+
+1484615570 source:/home/shaoshao/huawei/201703031-5/SDK-gcc/cdn/io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1490949276 source:/home/shaoshao/huawei/201703031-5/SDK-gcc/cdn/deploy.cpp
+	"deploy.h"
+	<iostream>
+	<vector>
+	<cstdlib>
+	<cstdio>
+	<string>
+	<cstring>
+	<queue>
+	<stdlib.h>
+	<time.h>
+	<algorithm>
+
+1484613112 source:/home/shaoshao/huawei/201703031-6/SDK-gcc/cdn/cdn.cpp
+	"deploy.h"
+	"lib_io.h"
+	"lib_time.h"
+	"stdio.h"
+
+1484613606 /home/shaoshao/huawei/201703031-6/SDK-gcc/cdn/deploy.h
+	"lib_io.h"
+
+1484613844 /home/shaoshao/huawei/201703031-6/SDK-gcc/cdn/lib/lib_io.h
+
+1484529734 /home/shaoshao/huawei/201703031-6/SDK-gcc/cdn/lib/lib_time.h
+
+1490964014 source:/home/shaoshao/huawei/201703031-6/SDK-gcc/cdn/deploy.cpp
+	"deploy.h"
+	<iostream>
+	<vector>
+	<cstdlib>
+	<cstdio>
+	<string>
+	<cstring>
+	<queue>
+	<stdlib.h>
+	<time.h>
+	<algorithm>
+
+1484615570 source:/home/shaoshao/huawei/201703031-6/SDK-gcc/cdn/io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1484613112 source:/home/shaoshao/huawei/201703031-7/SDK-gcc/cdn/cdn.cpp
+	"deploy.h"
+	"lib_io.h"
+	"lib_time.h"
+	"stdio.h"
+
+1484613606 /home/shaoshao/huawei/201703031-7/SDK-gcc/cdn/deploy.h
+	"lib_io.h"
+
+1484613844 /home/shaoshao/huawei/201703031-7/SDK-gcc/cdn/lib/lib_io.h
+
+1484529734 /home/shaoshao/huawei/201703031-7/SDK-gcc/cdn/lib/lib_time.h
+
+1484615570 source:/home/shaoshao/huawei/201703031-7/SDK-gcc/cdn/io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1491060943 source:/home/shaoshao/huawei/201703031-7/SDK-gcc/cdn/deploy.cpp
+	"deploy.h"
+	<iostream>
+	<vector>
+	<cstdlib>
+	<cstdio>
+	<string>
+	<cstring>
+	<queue>
+	<stdlib.h>
+	<time.h>
+	<algorithm>
+
+1484613112 source:/home/shaoshao/huawei/2017030402/SDK-gcc/cdn/cdn.cpp
+	"deploy.h"
+	"lib_io.h"
+	"lib_time.h"
+	"stdio.h"
+
+1484613606 /home/shaoshao/huawei/2017030402/SDK-gcc/cdn/deploy.h
+	"lib_io.h"
+
+1484613844 /home/shaoshao/huawei/2017030402/SDK-gcc/cdn/lib/lib_io.h
+
+1484529734 /home/shaoshao/huawei/2017030402/SDK-gcc/cdn/lib/lib_time.h
+
+1484615570 source:/home/shaoshao/huawei/2017030402/SDK-gcc/cdn/io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1491102187 source:/home/shaoshao/huawei/2017030402/SDK-gcc/cdn/deploy.cpp
+	"deploy.h"
+	<iostream>
+	<vector>
+	<cstdlib>
+	<cstdio>
+	<string>
+	<cstring>
+	<queue>
+	<stdlib.h>
+	<time.h>
+	<algorithm>
+
+1484613112 source:/home/shaoshao/huawei/2017030402 -2/SDK-gcc/cdn/cdn.cpp
+	"deploy.h"
+	"lib_io.h"
+	"lib_time.h"
+	"stdio.h"
+
+1484613606 /home/shaoshao/huawei/2017030402 -2/SDK-gcc/cdn/deploy.h
+	"lib_io.h"
+
+1484613844 /home/shaoshao/huawei/2017030402 -2/SDK-gcc/cdn/lib/lib_io.h
+
+1484529734 /home/shaoshao/huawei/2017030402 -2/SDK-gcc/cdn/lib/lib_time.h
+
+1484615570 source:/home/shaoshao/huawei/2017030402 -2/SDK-gcc/cdn/io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1491198250 source:/home/shaoshao/huawei/2017030402 -2/SDK-gcc/cdn/deploy.cpp
+	"deploy.h"
+	<iostream>
+	<vector>
+	<cstdlib>
+	<cstdio>
+	<string>
+	<cstring>
+	<queue>
+	<stdlib.h>
+	<time.h>
+	<algorithm>
+
+1484613112 source:/home/shaoshao/huawei/2017030405-4/SDK-gcc/cdn/cdn.cpp
+	"deploy.h"
+	"lib_io.h"
+	"lib_time.h"
+	"stdio.h"
+
+1484613606 /home/shaoshao/huawei/2017030405-4/SDK-gcc/cdn/deploy.h
+	"lib_io.h"
+
+1484613844 /home/shaoshao/huawei/2017030405-4/SDK-gcc/cdn/lib/lib_io.h
+
+1484529734 /home/shaoshao/huawei/2017030405-4/SDK-gcc/cdn/lib/lib_time.h
+
+1484615570 source:/home/shaoshao/huawei/2017030405-4/SDK-gcc/cdn/io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1491369147 source:/home/shaoshao/huawei/2017030405-4/SDK-gcc/cdn/deploy.cpp
+	"deploy.h"
+	<iostream>
+	<vector>
+	<cstdlib>
+	<cstdio>
+	<string>
+	<cstring>
+	<queue>
+	<stdlib.h>
+	<time.h>
+	<algorithm>
+
+1484613112 source:/home/shaoshao/huawei/2017030405-5/SDK-gcc/cdn/cdn.cpp
+	"deploy.h"
+	"lib_io.h"
+	"lib_time.h"
+	"stdio.h"
+
+1484613606 /home/shaoshao/huawei/2017030405-5/SDK-gcc/cdn/deploy.h
+	"lib_io.h"
+
+1484613844 /home/shaoshao/huawei/2017030405-5/SDK-gcc/cdn/lib/lib_io.h
+
+1484529734 /home/shaoshao/huawei/2017030405-5/SDK-gcc/cdn/lib/lib_time.h
+
+1484615570 source:/home/shaoshao/huawei/2017030405-5/SDK-gcc/cdn/io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1484613112 source:/home/shaoshao/huawei/2017030405-6/SDK-gcc/cdn/cdn.cpp
+	"deploy.h"
+	"lib_io.h"
+	"lib_time.h"
+	"stdio.h"
+
+1484613606 /home/shaoshao/huawei/2017030405-6/SDK-gcc/cdn/deploy.h
+	"lib_io.h"
+
+1484613844 /home/shaoshao/huawei/2017030405-6/SDK-gcc/cdn/lib/lib_io.h
+
+1484529734 /home/shaoshao/huawei/2017030405-6/SDK-gcc/cdn/lib/lib_time.h
+
+1484615570 source:/home/shaoshao/huawei/2017030405-6/SDK-gcc/cdn/io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1491383488 source:/home/shaoshao/huawei/2017030405-6/SDK-gcc/cdn/deploy.cpp
+	"deploy.h"
+	<iostream>
+	<vector>
+	<cstdlib>
+	<cstdio>
+	<string>
+	<cstring>
+	<queue>
+	<stdlib.h>
+	<time.h>
+	<algorithm>
+
+1484613112 source:/home/shaoshao/huawei/2017030405-7/SDK-gcc/cdn/cdn.cpp
+	"deploy.h"
+	"lib_io.h"
+	"lib_time.h"
+	"stdio.h"
+
+1484613606 /home/shaoshao/huawei/2017030405-7/SDK-gcc/cdn/deploy.h
+	"lib_io.h"
+
+1484613844 /home/shaoshao/huawei/2017030405-7/SDK-gcc/cdn/lib/lib_io.h
+
+1484529734 /home/shaoshao/huawei/2017030405-7/SDK-gcc/cdn/lib/lib_time.h
+
+1484615570 source:/home/shaoshao/huawei/2017030405-7/SDK-gcc/cdn/io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1491385013 source:/home/shaoshao/huawei/2017030405-7/SDK-gcc/cdn/deploy.cpp
+	"deploy.h"
+	<iostream>
+	<vector>
+	<cstdlib>
+	<cstdio>
+	<string>
+	<cstring>
+	<queue>
+	<stdlib.h>
+	<time.h>
+	<algorithm>
+
+1484613112 source:/home/shaoshao/huawei/2017030407/SDK-gcc/cdn/cdn.cpp
+	"deploy.h"
+	"lib_io.h"
+	"lib_time.h"
+	"stdio.h"
+
+1484613606 /home/shaoshao/huawei/2017030407/SDK-gcc/cdn/deploy.h
+	"lib_io.h"
+
+1484613844 /home/shaoshao/huawei/2017030407/SDK-gcc/cdn/lib/lib_io.h
+
+1484529734 /home/shaoshao/huawei/2017030407/SDK-gcc/cdn/lib/lib_time.h
+
+1484615570 source:/home/shaoshao/huawei/2017030407/SDK-gcc/cdn/io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1491561938 source:/home/shaoshao/huawei/2017030407/SDK-gcc/cdn/deploy.cpp
+	"deploy.h"
+	<iostream>
+	<vector>
+	<cstdlib>
+	<cstdio>
+	<string>
+	<cstring>
+	<queue>
+	<stdlib.h>
+	<time.h>
+	<algorithm>
+
